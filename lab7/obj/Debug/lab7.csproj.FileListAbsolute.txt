@@ -1,0 +1,14 @@
+C:\Users\1\Desktop\C#\all labs\my_labs\lab7\bin\Debug\lab7.exe.config
+C:\Users\1\Desktop\C#\all labs\my_labs\lab7\bin\Debug\lab7.exe
+C:\Users\1\Desktop\C#\all labs\my_labs\lab7\bin\Debug\lab7.pdb
+C:\Users\1\Desktop\C#\all labs\my_labs\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\1\Desktop\C#\all labs\my_labs\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\all labs\my_labs\lab7\obj\Debug\lab7.exe
+C:\Users\1\Desktop\C#\all labs\my_labs\lab7\obj\Debug\lab7.pdb
+C:\Users\1\Desktop\Учёба\C#\all labs\my_labs\lab7\obj\Debug\lab7.csprojAssemblyReference.cache
+C:\Users\1\Desktop\Учёба\C#\all labs\my_labs\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Учёба\C#\all labs\my_labs\lab7\obj\Debug\lab7.exe
+C:\Users\1\Desktop\Учёба\C#\all labs\my_labs\lab7\obj\Debug\lab7.pdb
+C:\Users\1\Desktop\Учёба\C#\all labs\my_labs\lab7\bin\Debug\lab7.exe.config
+C:\Users\1\Desktop\Учёба\C#\all labs\my_labs\lab7\bin\Debug\lab7.exe
+C:\Users\1\Desktop\Учёба\C#\all labs\my_labs\lab7\bin\Debug\lab7.pdb

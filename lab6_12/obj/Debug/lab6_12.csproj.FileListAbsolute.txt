@@ -1,0 +1,7 @@
+C:\Users\1\Desktop\C#\all labs\my_labs\lab6_12\bin\Debug\lab6_12.exe.config
+C:\Users\1\Desktop\C#\all labs\my_labs\lab6_12\bin\Debug\lab6_12.exe
+C:\Users\1\Desktop\C#\all labs\my_labs\lab6_12\bin\Debug\lab6_12.pdb
+C:\Users\1\Desktop\C#\all labs\my_labs\lab6_12\obj\Debug\lab6_12.csprojAssemblyReference.cache
+C:\Users\1\Desktop\C#\all labs\my_labs\lab6_12\obj\Debug\lab6_12.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\C#\all labs\my_labs\lab6_12\obj\Debug\lab6_12.exe
+C:\Users\1\Desktop\C#\all labs\my_labs\lab6_12\obj\Debug\lab6_12.pdb
