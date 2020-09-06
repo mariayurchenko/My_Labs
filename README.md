@@ -1,2 +1,2 @@
 # My_Labs
-Об'єктно-орієнтоване програмування C#
+Object-oriented C # programming
